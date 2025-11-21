@@ -3,4 +3,4 @@ Implementação do classificador binário do artigo: "LTNtorch: PyTorch Implemen
 
 ### Membros
 - Yan Fernandes da Silva yan.silva@icomp.ufam.edu.br
-- José Dercy da Silva 
+- José Dercy Vieira da Silva Filho jose.dercy@icomp.ufam.edu.br
